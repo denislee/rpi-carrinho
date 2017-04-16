@@ -13,11 +13,11 @@ Utilizamos a biblioteca pygame para melhor resposta do carrinho em relacao as te
 - 1 Chassi de acrilico
 - 2 LEDs branco de alto brilho para farol frontal
 - 2 LEDs vermelho difuso para luz traseira
-- Resistor de 330 Ohms (para LED vermelho difuso*)
-- Resistor de 100 Ohms (para LED branco de alto brilho*)
+- Resistor de 330 Ohms (para LED vermelho difuso)
+- Resistor de 100 Ohms (para LED branco de alto brilho)
 - Power bank para fornecer energia ao Rpi
 
-* Alimentacao dos LEDs = 5V
+Obs: Alimentacao dos LEDs = 5V
 
 # Comandos
 
